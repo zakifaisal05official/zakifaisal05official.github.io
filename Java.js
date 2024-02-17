@@ -3,14 +3,14 @@ var codeButton = document.getElementById("code-button");
 var codeMessage = document.getElementById("code-message");
 
 var codes = [
-  ["ZF132", "https://example.com"],
-  ["YT_ZAKIFAISAL_05", "https://example.net"],
-  ["halo bang", "https://example.org"],
-  ["developemen", "https://example.edu"],
+  ["ZF132", "https://www.tiktok.com/@yt_zakifaisal_05"],
+  ["YT_ZAKIFAISAL_05", "https://zakifaisal24.github.io"],
+  ["halo bang", "dzakifaisal11@gmail.com"],
+  ["developemen", "https://wa.me/message/PJA2BQ6SUPVXI1"],
   ["ZAKI", "https://example.biz"],
-  ["FAISAL", "https://example.info"],
-  ["gimana kabarnya", "https://example.io"],
-  ["Studio", "https://example.co"]
+  ["FAISAL", "https:zakifaisal05official.github.io"],
+  ["gimana kabarnya", "https://youtube.com/@ZAKI_FAISAL_05_OFFICIAL?si=g3HDMwEWOD3S9uWG"],
+  ["Studio", "https://www.instagram.com/zaki_faisal_official"]
 ];
 
 codeButton.addEventListener("click", redeemCode);
