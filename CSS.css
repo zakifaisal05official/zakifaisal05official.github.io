@@ -1,0 +1,44 @@
+#container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+#code-redeem {
+  border: 5px dotted #bbb;
+  border-radius: 150px;
+  padding: 20px;
+  text-align: center;
+}
+
+#code-input {
+  width: 60%;
+  height: 30px;
+  font-size: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+#code-button {
+  width: 10%;
+  height: 40px;
+  font-size: 20px;
+  background-color: #f1f1f1;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+#code-button:hover {
+  background-color: #ddd;
+}
+
+#code-button:active {
+  background-color: #bbb;
+}
+
+#code-message {
+  margin-top: 10px;
+  font-size: 18px;
+}
